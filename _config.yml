@@ -1,0 +1,28 @@
+name: doomernik
+favicon: null
+layout_spectrum: 0.06907307379879057
+typography_spectrum: 0.1287259494420141
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.1772792802657932
+  lightness: 0.4114136795978993
+  saturation: 0.6981355485040694
+  rhythmicContrast: 0.14242903515696526
+purpose: []
